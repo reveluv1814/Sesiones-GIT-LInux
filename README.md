@@ -5,7 +5,7 @@ Bienvenido/a al Curso Básico de Git. Aquí aprenderás los conceptos y comandos
 ---
 ## 👥 Facilitador
 
-- NEIL GRANEROS FLORES
+- [NEIL GRANEROS FLORES](https://github.com/reveluv1814)
 
 ---
 
@@ -42,4 +42,9 @@ Bienvenido/a al Curso Básico de Git. Aquí aprenderás los conceptos y comandos
 
 ---
 
-La Paz Mayo 2025 🚀
+## Sesiones
+Toda los documentos de apoyo, resumen y diapositivas usadas en cada sesión se encuentran aquí:
+- [Primera sesión](./sesion-1/SESION1.md)
+- Segunda sesión
+
+La Paz - Bolivia 2025 🚀
